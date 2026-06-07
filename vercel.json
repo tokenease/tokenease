@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/index.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    { "src": "/v1/(.*)", "dest": "api/index.py" },
+    { "src": "/health", "dest": "api/index.py" },
+    { "src": "/plans", "dest": "api/index.py" },
+    { "src": "/register", "dest": "api/index.py" },
+    { "src": "/paddle-webhook", "dest": "api/index.py" },
+    { "src": "/(.*)", "dest": "index.html" }
+  ]
+}

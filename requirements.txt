@@ -1,0 +1,2 @@
+# Vercel Python Runtime dependencies
+# 无需额外包，Python 标准库已足够
