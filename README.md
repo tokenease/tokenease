@@ -13,6 +13,31 @@
 
 ---
 
+
+## 📜 Policy Endorsed: National-Level Recognition of Token Pricing
+
+> *"Explore new transaction models such as token trading, building a quantifiable and pricing-enabled data value system based on tokens."*
+> — **China National Data Administration**, *Action Plan for Promoting High-Quality Industry Dataset Construction*, June 8, 2026
+
+On June 8, 2026, China's National Data Administration published its first-ever systematic policy document that **formally endorses token-based pricing** as a core mechanism for the AI economy.
+
+This means TokenEase's token-based billing model is now operating in a **policy-validated space** — not just an industry trend, but a nationally recognized standard.
+
+### What This Means for Developers
+
+| Trend | Policy Signal |
+|-------|-------------|
+| Token-based billing | ✅ National-level endorsement |
+| Pay-as-you-go API | ✅ Explicitly encouraged |
+| Subscription + API models | ✅ Listed as priority models |
+| Data value quantification | ✅ Actively promoted |
+
+TokenEase was built on this model from day one — now the market is catching up.
+
+**[→ Learn more at tokenease.io](https://tokenease.io)**
+
+---
+
 ## Why TokenEase?
 
 > **Stop managing multiple API keys. Start building.**
